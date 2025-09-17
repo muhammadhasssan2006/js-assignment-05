@@ -20,6 +20,11 @@
 
 // Question:03:-
 
+var str = "Pakistani";
 
+var indexNum =str.indexOf("n");
+
+document.write("String: ",str,"<br>");
+document.write("Index of 'n': ",indexNum);
 
 
