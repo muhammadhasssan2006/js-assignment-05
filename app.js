@@ -257,7 +257,16 @@
 
 
 
-// 
+// var secretNum = +prompt("Guess the secret number (1-10)");
+// var num = Math.ceil(Math.random() * 10);
+
+// alert("Secret number = " + num); 
+
+// if (secretNum === num) {
+//     alert(" Congratulations! You got the secret number");
+// } else {
+//     alert(" Try Again!");
+// }
 
 
 
