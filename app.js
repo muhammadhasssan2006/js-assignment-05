@@ -184,6 +184,89 @@
 
 
 
+// -----------------------------------------chapter 26-30-------------------------------
+
+// Question:01:-
+
+
+// var num = 3.45214;
+// document.write("number: ",num,"<br>")
+// document.write("round off value: ",Math.round(num),"<br>")
+// document.write("floor value: ",Math.floor(num),"<br>")
+// document.write("ceil value: ",Math.ceil(num))
+
+
+// Quetion:02:-
+
+
+// var num = -2.673;
+// document.write("number: ",num,"<br>")
+// document.write("round off value: ",Math.round(num),"<br>")
+// document.write("floor value: ",Math.floor(num),"<br>")
+// document.write("ceil value: ",Math.ceil(num)) 
+
+
+// Question:03:-
+
+
+// var num = -4;
+
+// var absValue = Math.abs(num);
+// document.write("The absolute value of ",num," is ",absValue,"<br>");
+
+// var num = 5;
+
+// var absValue = Math.abs(num);
+// document.write("The absolute value of ",num," is ",absValue);
+
+
+// Question:04:-
+
+
+// var num = Math.ceil(Math.random() * 6);
+// document.write("random dice value: ",num);
+
+// Question:05:-
+
+// var num = Math.ceil(Math.random()*2);
+// if(num ===2 ){
+
+//     document.write(num," <br> random coin value: Heads");
+    
+// }
+// else{
+//     document.write(num," <br> random coin value: Tails");
+
+// }
+
+// Question:06:-
+
+// var num = Math.ceil(Math.random()*100);
+
+// document.write("random number between 1 to 100: ",num);
+
+// Question:07:-
+
+// var userInput= prompt("Enter your Weight");
+
+// var Weight = parseFloat(userInput);
+// document.write("The weight of user is ",Weight," kilograms");
+
+
+// Question:8:-
+
+
+
+// 
+
+
+
+
+
+
+
+
+
 
 
 
